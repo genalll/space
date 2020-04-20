@@ -3,4 +3,4 @@
 <a href="https://praktikum.yandex.ru/">Яндекс практикум</a> https://www.freecodecamp.org/.
 
 
-<a href="https://genalll.github.io/space/index.html"> Играть можно тут</a>.
+<a href="https://genalll.github.io/space/index.html"> Играть можно тут</a>. Управление стрелками, выстрел пробел.
