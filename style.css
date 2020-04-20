@@ -1,0 +1,53 @@
+@keyframes shadow {
+    from {transform:scale(1.55); border-radius: 50%;}
+    50% {background-color: skyblue; border-radius: 150%;}
+    to {transform:scale(0.10); border-radius: 50%;}
+    }
+
+.space{
+    position: relative;
+    background-image: url("image/space.jpg");
+    background-size:cover;
+    margin: 0 auto;
+    width:100%;
+    height: 100%;
+    z-index: 300;
+}
+.ufo{
+    position: relative;
+    top:5vh;
+    left:5%;
+    width: 200px;
+    height: 100px;
+    background-image: url("image/ufo.png");
+    background-size:cover;
+    z-index: 200;
+}
+
+.shatl{
+    position: relative;
+    top: 65vh;
+    
+    width: 100px;
+    height: 200px;
+    background-image: url("image/shatl.png");
+    background-size:cover;
+    background-repeat: no-repeat;
+    z-index: 200;
+}
+
+.bomb{
+    position: relative;
+    top:65vh;
+    width: 10px;
+    height: 20px;
+    border-radius: 50%;
+    background: red;
+    z-index: 2;
+}
+
+.ufoluz{
+    animation: shadow  7s infinite ease-in-out;
+    animation-iteration-count:1;
+    animation-fill-mode:forwards;
+}
