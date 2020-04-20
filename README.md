@@ -3,4 +3,4 @@
 <a href="https://praktikum.yandex.ru/">Яндекс практикум</a> и  https://www.freecodecamp.org/.
 
 
-<a href="https://genalll.github.io/space/index.html"> Играть можно тут</a>. Управление стрелками, выстрел пробел.
+<a href="https://genalll.github.io/space/index.html"> Играть можно тут</a>. Управление стрелками, выстрел пробел. Корректно работает в Firefox.
